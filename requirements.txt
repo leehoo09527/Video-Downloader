@@ -1,0 +1,2 @@
+yt-dlp[default]==2026.10.10.233141.dev0
+curl-cffi==0.16.4b1
